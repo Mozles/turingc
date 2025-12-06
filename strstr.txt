@@ -165,10 +165,10 @@ $ 2 R
 a 19 L 
 b 19 L 
 c 19 L 
-a 15 L 
-b 15 L 
-c 15 L 
-d 15 L
+a 16 L 
+b 16 L 
+c 16 L 
+d 16 L
 17
 $ 2 R 
  
